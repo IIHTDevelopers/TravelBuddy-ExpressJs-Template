@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1696582313349" clover="3.2.0">
+  <project timestamp="1696582313350" name="All files">
+    <metrics statements="212" coveredstatements="200" conditionals="2" coveredconditionals="0" methods="136" coveredmethods="87" elements="350" coveredelements="287" complexity="0" loc="212" ncloc="212" packages="32" files="32" classes="32"/>
+    <package name="auth.controller">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <file name="auth.controller.js" path="C:\Data\Code\NodeJS\pwc\advanced\modules\auth\controller\auth.controller.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="4" count="4" type="stmt"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="auth.middleware">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="auth.guard.js" path="C:\Data\Code\NodeJS\pwc\advanced\modules\auth\middleware\auth.guard.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="3" count="4" type="stmt"/>
+        <line num="6" count="5" type="stmt"/>
+      </file>
+    </package>
+    <package name="auth.route">
+      <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="auth.routes.js" path="C:\Data\Code\NodeJS\pwc\advanced\modules\auth\route\auth.routes.js">
+        <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="booking.controller">
+      <metrics statements="8" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="7" coveredmethods="7"/>
+      <file name="booking.controller.js" path="C:\Data\Code\NodeJS\pwc\advanced\modules\booking\controller\booking.controller.js">
+        <metrics statements="8" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="7" coveredmethods="7"/>
+        <line num="4" count="3" type="stmt"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="14" count="2" type="stmt"/>
+        <line num="19" count="2" type="stmt"/>
+        <line num="24" count="4" type="stmt"/>
+        <line num="29" count="2" type="stmt"/>
+        <line num="34" count="2" type="stmt"/>
+        <line num="38" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="booking.dao.models">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="booking.model.js" path="C:\Data\Code\NodeJS\pwc\advanced\modules\booking\dao\models\booking.model.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="booking.dao.schemas">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="booking.schema.js" path="C:\Data\Code\NodeJS\pwc\advanced\modules\booking\dao\schemas\booking.schema.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="21" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="booking.routes">
+      <metrics statements="12" coveredstatements="12" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="booking.routes.js" path="C:\Data\Code\NodeJS\pwc\advanced\modules\booking\routes\booking.routes.js">
+        <metrics statements="12" coveredstatements="12" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="booking.service">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="8" coveredmethods="0"/>
+      <file name="booking.service.js" path="C:\Data\Code\NodeJS\pwc\advanced\modules\booking\service\booking.service.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="8" coveredmethods="0"/>
+        <line num="12" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="booking.service.impl">
+      <metrics statements="10" coveredstatements="10" conditionals="0" coveredconditionals="0" methods="8" coveredmethods="8"/>
+      <file name="booking.serviceImpl.js" path="C:\Data\Code\NodeJS\pwc\advanced\modules\booking\service\impl\booking.serviceImpl.js">
+        <metrics statements="10" coveredstatements="10" conditionals="0" coveredconditionals="0" methods="8" coveredmethods="8"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="11" count="2" type="stmt"/>
+        <line num="16" count="2" type="stmt"/>
+        <line num="21" count="2" type="stmt"/>
+        <line num="26" count="2" type="stmt"/>
+        <line num="31" count="2" type="stmt"/>
+        <line num="36" count="2" type="stmt"/>
+        <line num="41" count="2" type="stmt"/>
+        <line num="45" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="destination.controller">
+      <metrics statements="10" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="9" coveredmethods="8"/>
+      <file name="destination.controller.js" path="C:\Data\Code\NodeJS\pwc\advanced\modules\destination\controller\destination.controller.js">
+        <metrics statements="10" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="9" coveredmethods="8"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="14" count="2" type="stmt"/>
+        <line num="19" count="2" type="stmt"/>
+        <line num="24" count="4" type="stmt"/>
+        <line num="29" count="2" type="stmt"/>
+        <line num="34" count="2" type="stmt"/>
+        <line num="39" count="0" type="stmt"/>
+        <line num="44" count="2" type="stmt"/>
+        <line num="48" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="destination.dao.models">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="destination.model.js" path="C:\Data\Code\NodeJS\pwc\advanced\modules\destination\dao\models\destination.model.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="3" type="stmt"/>
+        <line num="3" count="3" type="stmt"/>
+        <line num="4" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="destination.dao.schemas">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="destination.schema.js" path="C:\Data\Code\NodeJS\pwc\advanced\modules\destination\dao\schemas\destination.schema.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="3" type="stmt"/>
+        <line num="3" count="3" type="stmt"/>
+        <line num="13" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="destination.service">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="10" coveredmethods="0"/>
+      <file name="destination.service.js" path="C:\Data\Code\NodeJS\pwc\advanced\modules\destination\service\destination.service.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="10" coveredmethods="0"/>
+        <line num="14" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="destination.service.impl">
+      <metrics statements="12" coveredstatements="12" conditionals="0" coveredconditionals="0" methods="10" coveredmethods="10"/>
+      <file name="destination.serviceImpl.js" path="C:\Data\Code\NodeJS\pwc\advanced\modules\destination\service\impl\destination.serviceImpl.js">
+        <metrics statements="12" coveredstatements="12" conditionals="0" coveredconditionals="0" methods="10" coveredmethods="10"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="11" count="2" type="stmt"/>
+        <line num="16" count="2" type="stmt"/>
+        <line num="21" count="2" type="stmt"/>
+        <line num="26" count="2" type="stmt"/>
+        <line num="31" count="2" type="stmt"/>
+        <line num="36" count="2" type="stmt"/>
+        <line num="41" count="2" type="stmt"/>
+        <line num="46" count="2" type="stmt"/>
+        <line num="51" count="2" type="stmt"/>
+        <line num="55" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="review.controller">
+      <metrics statements="9" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="8" coveredmethods="7"/>
+      <file name="review.controller.js" path="C:\Data\Code\NodeJS\pwc\advanced\modules\review\controller\review.controller.js">
+        <metrics statements="9" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="8" coveredmethods="7"/>
+        <line num="4" count="3" type="stmt"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="14" count="2" type="stmt"/>
+        <line num="19" count="2" type="stmt"/>
+        <line num="24" count="2" type="stmt"/>
+        <line num="29" count="0" type="stmt"/>
+        <line num="34" count="3" type="stmt"/>
+        <line num="39" count="2" type="stmt"/>
+        <line num="43" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="review.dao.models">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="review.model.js" path="C:\Data\Code\NodeJS\pwc\advanced\modules\review\dao\models\review.model.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="review.dao.schemas">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="review.schema.js" path="C:\Data\Code\NodeJS\pwc\advanced\modules\review\dao\schemas\review.schema.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="review.routes">
+      <metrics statements="12" coveredstatements="12" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="review.routes.js" path="C:\Data\Code\NodeJS\pwc\advanced\modules\review\routes\review.routes.js">
+        <metrics statements="12" coveredstatements="12" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="review.service">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="8" coveredmethods="0"/>
+      <file name="review.service.js" path="C:\Data\Code\NodeJS\pwc\advanced\modules\review\service\review.service.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="8" coveredmethods="0"/>
+        <line num="12" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="review.service.impl">
+      <metrics statements="10" coveredstatements="10" conditionals="0" coveredconditionals="0" methods="8" coveredmethods="8"/>
+      <file name="review.serviceImpl.js" path="C:\Data\Code\NodeJS\pwc\advanced\modules\review\service\impl\review.serviceImpl.js">
+        <metrics statements="10" coveredstatements="10" conditionals="0" coveredconditionals="0" methods="8" coveredmethods="8"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="11" count="2" type="stmt"/>
+        <line num="16" count="2" type="stmt"/>
+        <line num="21" count="2" type="stmt"/>
+        <line num="26" count="2" type="stmt"/>
+        <line num="31" count="2" type="stmt"/>
+        <line num="36" count="2" type="stmt"/>
+        <line num="41" count="2" type="stmt"/>
+        <line num="45" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="trip-plan.controller">
+      <metrics statements="9" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="8" coveredmethods="8"/>
+      <file name="trip-plan.controller.js" path="C:\Data\Code\NodeJS\pwc\advanced\modules\trip-plan\controller\trip-plan.controller.js">
+        <metrics statements="9" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="8" coveredmethods="8"/>
+        <line num="4" count="3" type="stmt"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="14" count="2" type="stmt"/>
+        <line num="19" count="2" type="stmt"/>
+        <line num="24" count="4" type="stmt"/>
+        <line num="29" count="2" type="stmt"/>
+        <line num="34" count="2" type="stmt"/>
+        <line num="39" count="2" type="stmt"/>
+        <line num="43" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="trip-plan.dao.models">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="trip-plan.model.js" path="C:\Data\Code\NodeJS\pwc\advanced\modules\trip-plan\dao\models\trip-plan.model.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="trip-plan.dao.schemas">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="trip-plan.schema.js" path="C:\Data\Code\NodeJS\pwc\advanced\modules\trip-plan\dao\schemas\trip-plan.schema.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="trip-plan.routes">
+      <metrics statements="13" coveredstatements="13" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="trip-plan.routes.js" path="C:\Data\Code\NodeJS\pwc\advanced\modules\trip-plan\routes\trip-plan.routes.js">
+        <metrics statements="13" coveredstatements="13" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="17" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="trip-plan.service">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="9" coveredmethods="0"/>
+      <file name="trip-plan.service.js" path="C:\Data\Code\NodeJS\pwc\advanced\modules\trip-plan\service\trip-plan.service.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="9" coveredmethods="0"/>
+        <line num="13" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="trip-plan.service.impl">
+      <metrics statements="11" coveredstatements="11" conditionals="0" coveredconditionals="0" methods="9" coveredmethods="9"/>
+      <file name="trip-plan.serviceImpl.js" path="C:\Data\Code\NodeJS\pwc\advanced\modules\trip-plan\service\impl\trip-plan.serviceImpl.js">
+        <metrics statements="11" coveredstatements="11" conditionals="0" coveredconditionals="0" methods="9" coveredmethods="9"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="11" count="3" type="stmt"/>
+        <line num="16" count="3" type="stmt"/>
+        <line num="21" count="3" type="stmt"/>
+        <line num="26" count="3" type="stmt"/>
+        <line num="31" count="2" type="stmt"/>
+        <line num="36" count="2" type="stmt"/>
+        <line num="41" count="2" type="stmt"/>
+        <line num="46" count="2" type="stmt"/>
+        <line num="50" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="user.controller">
+      <metrics statements="10" coveredstatements="10" conditionals="0" coveredconditionals="0" methods="9" coveredmethods="9"/>
+      <file name="user.controller.js" path="C:\Data\Code\NodeJS\pwc\advanced\modules\user\controller\user.controller.js">
+        <metrics statements="10" coveredstatements="10" conditionals="0" coveredconditionals="0" methods="9" coveredmethods="9"/>
+        <line num="4" count="3" type="stmt"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="14" count="2" type="stmt"/>
+        <line num="19" count="2" type="stmt"/>
+        <line num="24" count="2" type="stmt"/>
+        <line num="29" count="2" type="stmt"/>
+        <line num="34" count="2" type="stmt"/>
+        <line num="39" count="2" type="stmt"/>
+        <line num="44" count="2" type="stmt"/>
+        <line num="48" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="user.dao.models">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="user.model.js" path="C:\Data\Code\NodeJS\pwc\advanced\modules\user\dao\models\user.model.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="6" type="stmt"/>
+        <line num="3" count="6" type="stmt"/>
+        <line num="4" count="6" type="stmt"/>
+      </file>
+    </package>
+    <package name="user.dao.schemas">
+      <metrics statements="16" coveredstatements="6" conditionals="2" coveredconditionals="0" methods="2" coveredmethods="0"/>
+      <file name="user.schema.js" path="C:\Data\Code\NodeJS\pwc\advanced\modules\user\dao\schemas\user.schema.js">
+        <metrics statements="16" coveredstatements="6" conditionals="2" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <line num="1" count="6" type="stmt"/>
+        <line num="2" count="6" type="stmt"/>
+        <line num="4" count="6" type="stmt"/>
+        <line num="14" count="6" type="stmt"/>
+        <line num="15" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="16" count="0" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="18" count="0" type="stmt"/>
+        <line num="19" count="0" type="stmt"/>
+        <line num="21" count="0" type="stmt"/>
+        <line num="24" count="0" type="stmt"/>
+        <line num="28" count="6" type="stmt"/>
+        <line num="29" count="0" type="stmt"/>
+        <line num="30" count="0" type="stmt"/>
+        <line num="32" count="0" type="stmt"/>
+        <line num="36" count="6" type="stmt"/>
+      </file>
+    </package>
+    <package name="user.routes">
+      <metrics statements="14" coveredstatements="14" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="user.routes.js" path="C:\Data\Code\NodeJS\pwc\advanced\modules\user\routes\user.routes.js">
+        <metrics statements="14" coveredstatements="14" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="17" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="user.service">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="10" coveredmethods="0"/>
+      <file name="user.service.js" path="C:\Data\Code\NodeJS\pwc\advanced\modules\user\service\user.service.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="10" coveredmethods="0"/>
+        <line num="14" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="user.service.impl">
+      <metrics statements="12" coveredstatements="12" conditionals="0" coveredconditionals="0" methods="10" coveredmethods="10"/>
+      <file name="user.serviceImpl.js" path="C:\Data\Code\NodeJS\pwc\advanced\modules\user\service\impl\user.serviceImpl.js">
+        <metrics statements="12" coveredstatements="12" conditionals="0" coveredconditionals="0" methods="10" coveredmethods="10"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="11" count="2" type="stmt"/>
+        <line num="16" count="2" type="stmt"/>
+        <line num="21" count="2" type="stmt"/>
+        <line num="26" count="2" type="stmt"/>
+        <line num="31" count="1" type="stmt"/>
+        <line num="36" count="3" type="stmt"/>
+        <line num="41" count="2" type="stmt"/>
+        <line num="46" count="2" type="stmt"/>
+        <line num="51" count="2" type="stmt"/>
+        <line num="55" count="2" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
